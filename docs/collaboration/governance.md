@@ -382,7 +382,7 @@ appropriate repository.
 We prefer questions to be asked via
 [NeuroStars](https://neurostars.org/tags/bids) so that others can search
 them and benefit from the answers, but if you do not feel comfortable
-asking your question, please feel free to email the BIDS Maintainers at
+asking your question publicly, please feel free to email the BIDS Maintainers at
 <bids.maintenance+question@gmail.com>. They will
 repost an anonymised/general version of your question on
 [NeuroStars](https://neurostars.org/tags/bids) and answer it there.
