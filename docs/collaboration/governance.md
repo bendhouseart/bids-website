@@ -280,10 +280,7 @@ BEP Process. All discussion and final approval/disapproval of BEP must be a part
 record.
 
 A newer version of the BEP Process may not be applied retroactively to an approved BEP/BEP
-Working Group barring the BEP Lead(s) consent. Once a BEP is started, the Git hash
-associated with the BEP Process is noted and linked to the BEP. Should BEP Lead(s)
-choose to adopt a *newer* version of the process, the Git hash of that newer version
-will be recorded along with their starting process hash.
+Working Group barring the BEP Lead(s) consent.
 
 ## X. Appendix
 
