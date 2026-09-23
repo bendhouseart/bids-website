@@ -19,7 +19,6 @@ We keep an updated list of
 [completed BEPS](./beps.md#completed-beps) and
 [draft/proposed BEPs](./beps.md#bids-extension-proposals).
 
-
 ## Is a BEP even required?
 
 ```mermaid
@@ -72,7 +71,6 @@ BEP_issue_exist -- yes --> Join_discussion
 
     -   read the [BIDS governance document](../collaboration/governance.md)
     -   the [BIDS code of conduct](../collaboration/bids_github/CODE_OF_CONDUCT.md)
-
 
 ### Overview of the BEP process
 
@@ -445,7 +443,7 @@ These suggestions are not required for submitting the BEP for incorporation into
 
 ## Definitions
 
-#### BEP Working Group
+### BEP Working Group
 
 A BEP Working Group is established for every BIDS Extension Proposal
 (BEP). Each working group will have 1-3 group-appointed leader(s),
@@ -457,7 +455,7 @@ work, following the BIDS governance standards laid out in section 4 of
 this document and the BIDS [Code of Conduct](../../docs/collaboration/bids_github/CODE_OF_CONDUCT.md).
 The BEP Working Group work is completed when their BEP has become a Merged BEP.
 
-#### BEP Leads Group
+### BEP Leads Group
 
 The BEP Leads Group consists of the BEP Leads of the BEP Working Groups.
 This Working Group intends to ensure potential integrations and
@@ -467,11 +465,11 @@ standard.
 When a BEP is merged into the specification the BEP Lead(s) are automatically
 enrolled into a [BIDs Advisory Group](../../docs/collaboration/governance.md#bids-advisory-group)
 
-#### Draft BEP
+### Draft BEP
 
 The in-progress document, typically in a Google Doc, of a BEP.
 This is dynamic and is grown and maintained at the discretion of a BEP Working Group.
 
-#### Merged BEP
+### Merged BEP
 
 A Proposed BEP that has been reviewed and approved by the Steering Group and merged into the BIDS standard.
